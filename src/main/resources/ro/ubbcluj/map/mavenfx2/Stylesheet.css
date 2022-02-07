@@ -1,0 +1,13 @@
+.button {
+    -fx-background-color:#44c767;
+    -fx-border-radius:28px;
+    -fx-display:inline-block;
+    -fx-cursor:pointer;
+    -fx-color:#ffffff;
+    -fx-font-family:Arial;
+    -fx-text-decoration:none;
+}
+.button:hover {
+    -fx-background-color:#5cbf2a;
+}
+

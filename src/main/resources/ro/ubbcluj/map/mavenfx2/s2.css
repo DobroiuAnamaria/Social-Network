@@ -1,0 +1,16 @@
+.animated_div {
+    -fx-width:70px;
+    -fx-height:47px;
+    -fx-background: #92B901;
+    -fx-color: #ffffff;
+    -fx-position: relative;
+    -fx-font-weight:bold;
+    -fx-font-size:20px;
+    -fx-padding:10px;
+    -fx-animation:animated_div 5s 1;
+    -fx-moz-animation:animated_div 5s 1;
+    -fx-webkit-animation:animated_div 5s 1;
+    -fx-o-animation:animated_div 5s 1;
+    -fx-border-radius:5px;
+    -fx-webkit-border-radius:5px;
+}
